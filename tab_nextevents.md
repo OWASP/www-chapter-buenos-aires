@@ -4,8 +4,8 @@ title: NextEvents
 displaytext: Next Events
 layout: null
 tab: true
-order: 2
-tags: next,events
+order: 3
+tags: london
 
 ---
 
