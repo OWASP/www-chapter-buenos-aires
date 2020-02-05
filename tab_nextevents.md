@@ -1,18 +1,14 @@
 ---
 
 title: NextEvents
-displaytext: Next Events
+displaytext: Próximos Eventos
 layout: null
 tab: true
 order: 3
-tags: london
+tags: argentina
 
 ---
 
-## Next Events
+## Próximos Eventos
 
-<hr>
-
-### Thursday, 18h July 2019 (Canary Wharf)
-
-**Location:** Revolut , The Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD
+### <WIP>

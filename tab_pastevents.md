@@ -1,15 +1,15 @@
 ---
 
 title: PastEvents
-displaytext: Past Events
+displaytext: Eventos Pasados
 layout: null
 tab: true
 order: 2
-tags: london
+tags: argentina
 
 ---
 
-## 2019 Events
+## Eventos 2019
 
 ### Dic 2019 - OWASP & UTN - Clase sobre Seguridad en Aplicaciones 
 Se dictó una presentación como parte de la materia de Seguridad Aplicativa a cargo del Prof. Gonzalo Villanova.
@@ -21,7 +21,8 @@ OWASP Latam Tour Buenos Aires” es parte del programa “OWASP Latam Tour” qu
 ### OWASP & Application Security BA Meetup
 Miembros del capítulo local brindaron una Meetup conjunta con los organizadores de “Application Security BA Meetup”. Durante el año se realizaron 2 eventos entre los cuales se presentaron los siguientes temas:
 
-#### Miembros del capítulo local brindaron una Meetup conjunta con los organizadores de “Application Security BA Meetup”. Compartieron concepto y experiencia relacionadas a la implementación de un esquema escalable de reporte y corrección de librerías vulnerables en el contexto del proyecto Open Source Security.
+#### Nov 2019 - OWASP & Application Security BA Meetup
+ Miembros del capítulo local brindaron una Meetup conjunta con los organizadores de “Application Security BA Meetup”. Compartieron concepto y experiencia relacionadas a la implementación de un esquema escalable de reporte y corrección de librerías vulnerables en el contexto del proyecto Open Source Security.
 
 #### Agosto 2019 - OWASP & Application Security BA Meetup
 Miembros del capítulo local brindaron una Meetup conjunta con los organizadores de “Application Security BA Meetup”.  En la exposición presentaron una diferentes alternativas para implementar controles de seguridad estáticos (SAST) en el ciclo de vida de desarrollo de software.
