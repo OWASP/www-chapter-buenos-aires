@@ -4,8 +4,8 @@ title: PastEvents
 displaytext: Past Events
 layout: null
 tab: true
-order: 1
-tags: past
+order: 2
+tags: london
 
 ---
 
@@ -13,4 +13,6 @@ tags: past
 
 <hr>
 
-### Thursday, 18h July 2019
+### Thursday, 18h July 2019 (Canary Wharf)
+
+**Location:** Revolut , The Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD
