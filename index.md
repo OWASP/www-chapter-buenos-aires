@@ -10,7 +10,10 @@ currency: Pesos
 
 ---
 
-OWASP Argentina
--------------
+# ¡Bienvenidos a la comunidad de OWASP Argentina! 
 
-<WIP>
+![Argentina Chapter Logo](assets/images/owasparg.jpg)
+
+## Objetivo del capítulo
+
+
