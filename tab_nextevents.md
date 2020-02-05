@@ -4,7 +4,7 @@ title: NextEvents
 displaytext: Next Events
 layout: null
 tab: true
-order: 3
+order: 2
 tags: next,events
 
 ---
