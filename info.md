@@ -2,5 +2,6 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Linkedin](https://www.linkedin.com/groups/12266335)
+* [Meetup]()
+* [Slack](https://owasp.slack.com/messages/chapter-argentina/)
