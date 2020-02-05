@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Argentina
 tags: example-tag
-level: 3
+level: 0
 
 region: Latin America
 
