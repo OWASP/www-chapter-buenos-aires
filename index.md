@@ -3,11 +3,9 @@
 layout: col-sidebar
 title: OWASP Argentina
 tags: example-tag
-level: 0
+level: 3
 
 region: Latin America
-
-auto-migrated: 1
 
 ---
 
