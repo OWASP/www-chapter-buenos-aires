@@ -12,8 +12,10 @@ currency: Pesos
 
 # ¡Bienvenidos a la comunidad de OWASP Argentina! 
 
-![Argentina Chapter Logo](assets/images/owasparg.jpg)
+![Argentina Chapter Logo](https://www.owasp.org/images/8/80/Owasparlogo1.jpg)
 
 ## Objetivo del capítulo
+
+De la mano con la visión de OWASP, el objetivo de este capítulo es acompañar a la comunidad de desarrollo Argentinaen la definición de criterios y herramientas con el objetivo final de comprender, de forma holística, los costos y beneficios de realizar un desarrollo maduro en términos seguridad y resiliencia.
 
 
