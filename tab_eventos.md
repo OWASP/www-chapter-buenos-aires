@@ -1,6 +1,6 @@
 ---
 title: Eventos
-layout:  null
+layout: Eventos
 tab: true
 order: 1
 tags: news
