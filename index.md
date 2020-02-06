@@ -16,6 +16,6 @@ currency: Pesos
 
 ## Objetivo del capítulo
 
-De la mano con la visión de OWASP, el objetivo de este capítulo es acompañar a la comunidad de desarrollo Argentinaen la definición de criterios y herramientas con el objetivo final de comprender, de forma holística, los costos y beneficios de realizar un desarrollo maduro en términos seguridad y resiliencia.
+De la mano con la visión de OWASP, el objetivo de este capítulo es acompañar a la comunidad de desarrollo Argentina en la definición de criterios, estándares y herramientas con el objetivo final de comprender, de forma holística, los costos y beneficios de realizar un desarrollo maduro en términos seguridad y resiliencia.
 
 
