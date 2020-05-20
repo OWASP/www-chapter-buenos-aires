@@ -1,4 +1,4 @@
 ### Social Links
 * [Linkedin](https://www.linkedin.com/groups/12266335)
-* [Meetup]()
+* [Twitter](https://twitter.com/OWASP_Arg)
 * [Slack](https://owasp.slack.com/messages/chapter-argentina/)
