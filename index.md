@@ -18,4 +18,45 @@ currency: Pesos
 
 De la mano con la visión de OWASP, el objetivo de este capítulo es acompañar a la comunidad de desarrollo Argentina en la definición de criterios, estándares y herramientas con el objetivo final de comprender, de forma holística, los costos y beneficios de realizar un desarrollo maduro en términos seguridad y resiliencia.
 
+## Por que es importante el desarrollo seguro
+
+Existen muchas razones para fomentar el desarrollo seguro dentro de una empresa o emprendimiento personal, dentro de las cuales se encuentran las siguientes:
+
+###  Beneficio económico
+
+En líneas generales, es mas barato para una empresa detectar y corregir vulnerabilidades en etapas previas a producción por varios motivos. Un ejemplo puede ser el caso de detectar una vulnerabilidad estructural, que afecte a varias aplicaciones del ecosistema. El costo de orquestar dicho fix, evitando downtime en el camino, puede ser muy grande. De haber detectado esa falla en etapas tempranas, por ejemplo, en un threat model en la etapa de diseño, el costo en términos de tiempo de desarrollo y deploy orquestado es menor. 
+
+### Reducción de riesgos
+
+Otro factor importante tiene relación al impacto de que dicha vulnerabilidad sea detectada por un atacante mal intencionado antes que por nosotros mismos. En este caso el impacto puede ser en imagen, regulatorio, legal o financiero. De haber detectado esta vulnerabilidad en etapas previas a producción, podemos reducir ampliamente este impacto. 
+
+### La seguridad como parte de la calidad
+
+Es importante remarcar que el concepto de seguridad es un subconjunto de calidad y como tal tienen muchos puntos en común. Por ejemplo, si necesitamos un producto que garantice (como medida de calidad) un SLA de 99,99 ("four nines") y no tenemos en cuenta los vectores por los cuales un atacante puede denegar el servicio a la aplicación, es probable que el servicio tenga menor éxito que el esperado.
+
+## Que contenidos puedo esperar del capítulo
+
+Los contenidos brindados por el capítulo pueden ser estratégicos, tácticos o técnicos, pero siempre enfocados en desarrollo seguro. Generalmente se compartirá temas relacionados a alguno de los "checkpoints" que conforman al SDL, por ejemplo...
+
+
+- Requirements Engineering
+- Threat modeling (STRIDE, brainstorming, attack trees, use/misuse case, attack surface analysis, entre otras)
+- Secure Design Principles
+- SAST (Static application security testing)
+- Security code review
+- Software composition analysis
+- Content management
+- Information lifecycle management
+- DAST (Dynamic application security testing)
+- IAST (Interactive Application Security Testing)
+- RASP(Runtime Application Self-Protection)
+- Penetration testing
+- Vulnerability Assessment 
+- Bug bounty programs
+- Vulnerability Management
+- Security Culture inside companies
+
+Entre otros temas...
+
+
 
