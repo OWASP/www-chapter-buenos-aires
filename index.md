@@ -5,7 +5,7 @@ title: OWASP Argentina
 site_side: true
 tags: argentina
 level: 3
-region: Latin America
+region: South America
 currency: Pesos
 
 ---
