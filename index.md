@@ -12,7 +12,7 @@ currency: Pesos
 
 # ¡Bienvenidos a la comunidad de OWASP Buenos Aires! 
 
-![Argentina Chapter Logo](https://i.imgur.com/KWT2jLl.jpg)
+
 
 ## Objetivo del capítulo
 
