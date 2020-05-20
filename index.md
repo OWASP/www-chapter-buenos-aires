@@ -1,16 +1,16 @@
 ---
 
 layout: col-sidebar
-title: OWASP Argentina
+title: OWASP Buenos Aires
 site_side: true
-tags: argentina
+tags: buenos aires
 level: 3
 region: South America
 currency: Pesos
 
 ---
 
-# ¡Bienvenidos a la comunidad de OWASP Argentina! 
+# ¡Bienvenidos a la comunidad de OWASP Buenos Aires! 
 
 ![Argentina Chapter Logo](https://i.imgur.com/KWT2jLl.jpg)
 
