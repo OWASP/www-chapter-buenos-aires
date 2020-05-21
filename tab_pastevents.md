@@ -5,7 +5,7 @@ displaytext: Eventos Pasados
 layout: null
 tab: true
 order: 2
-tags: argentina
+tags: buenos aires
 
 ---
 

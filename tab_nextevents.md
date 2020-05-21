@@ -5,7 +5,7 @@ displaytext: Próximos Eventos
 layout: null
 tab: true
 order: 3
-tags: argentina
+tags: buenos aires
 
 ---
 
