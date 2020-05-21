@@ -11,7 +11,10 @@ tags: buenos aires
 
 ## Eventos 2019
 
-### Dic 2019 - OWASP & UTN - Clase sobre Seguridad en Aplicaciones 
+### Date/Time: Diciembre 6, 2019, 6:30 PM to 8:30 PM EDT
+### Location: Universidad UTN - Mozart 2300, CABA
+### Presentation summary:
+
 Se dictó una presentación como parte de la materia de Seguridad Aplicativa a cargo del Prof. Gonzalo Villanova.
 Dentro de los temas dictados se encuentran: Principios básicos de infraestructura Cloud (con casos prácticos en AWS y GCP), riesgos y nuevas oportunidades relacionadas a arquitecturas de microservicios (Mesh vs API gateway) y la importancia de la etapa de “configuration management” dentro del SDL como estrategia para lograr un desarrollo mas seguro.
 
