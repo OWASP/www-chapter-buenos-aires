@@ -24,7 +24,7 @@ Dentro de los temas dictados se encuentran: Principios básicos de infraestructu
 
  Miembros del capítulo local organizaron una meetup conjunta con los organizadores de “Application Security BA Meetup”. En esta oportunidad compartimos nuestra visión sobre librerías open source (Software composition analysis) y el impacto que pueden tener en una empresa. Tmbién compartimos nuestra estrategia para inventariar, detectar vulnerabilidades, priorizar los riesgos y criterios de corrección y finalmente generar reportes a los desarrolladores para su posterior solución. 
 
-### Date/Time: April 15, 2019, 19:00 PM to 20:00 PM 
+### Date/Time: April 15, 2019, 9:00 AM to 18:00 PM 
 ### Location: Universidad UTN - Mozart 2300, CABA
 ### Presentation summary:
 
