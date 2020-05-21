@@ -9,6 +9,14 @@ tags: buenos aires
 
 ---
 
+## Eventos 2020
+
+### Date/Time: May 4 to May 8, 2020, 18:30:00 PM to 20:00 PM 
+### Location: Youtube, you can see the specific channel based on the specific date here: https://owasp.org/www-event-2020-latam-at-home/
+### Presentation summary:
+
+Este año, por la situación que está padeciendo el mundo por la pandemia del Covid-19, se ha cancelado la participación del OWASP LATAM TOUR 2020 de manera presencial y ha dado pie para proponer realizar un evento con las mismas características pero de manera Virtual y con organización local de cada capítulo de OWASP.
+
 ## Eventos 2019
 
 ### Date/Time: Diciembre 6, 2019, 6:30 PM to 8:30 PM 
@@ -35,3 +43,4 @@ Se organizó una conferencia "OWASP Latam Tour Buenos Aires" como parte del even
 ### Presentation summary:
 
 Miembros del capítulo local brindaron una Meetup conjunta con los organizadores de “Application Security BA Meetup”.  En esta oportunidad se presentaron diferentes alternativas para implementar un analizador de código estático (SAST) en el ciclo de vida de desarrollo de software.
+
