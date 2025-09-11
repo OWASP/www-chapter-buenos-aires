@@ -53,7 +53,11 @@ Los contenidos brindados por el capítulo pueden ser estratégicos, tácticos o 
 - Vulnerability Management
 - Security Culture inside companies
 
-Entre otros temas...
+Entre otros temas de interés.
+
+## Participación
+
+OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad en aplicaciones y hacer de internet un lugar más seguro, o simplemente querés concer y aprender, este es tu lugar! No dudes en consultarlos! Una gran comunidad te espera.
 
 
 
