@@ -31,30 +31,6 @@ Otro factor importante tiene relación al impacto de que dicha vulnerabilidad se
 
 Es importante remarcar que el concepto de seguridad es un subconjunto de calidad y como tal tienen muchos puntos en común. Por ejemplo, si necesitamos un producto que garantice (como medida de calidad) un SLA de 99,99 ("four nines") y no tenemos en cuenta los vectores por los cuales un atacante puede denegar el servicio a la aplicación, es probable que el servicio tenga menor éxito que el esperado.
 
-## Que contenidos puedo esperar del capítulo
-
-Los contenidos brindados por el capítulo pueden ser estratégicos, tácticos o técnicos, pero siempre enfocados en desarrollo seguro. Generalmente se compartirá temas relacionados a alguno de los "checkpoints" que conforman al SDL, por ejemplo...
-
-
-- Requirements Engineering
-- Threat modeling (STRIDE, brainstorming, attack trees, use/misuse case, attack surface analysis, entre otras)
-- Secure Design Principles
-- SAST (Static application security testing)
-- Security code review
-- Software composition analysis
-- Content management
-- Information lifecycle management
-- DAST (Dynamic application security testing)
-- IAST (Interactive Application Security Testing)
-- RASP(Runtime Application Self-Protection)
-- Penetration testing
-- Vulnerability Assessment 
-- Bug bounty programs
-- Vulnerability Management
-- Security Culture inside companies
-
-Entre otros temas de interés.
-
 ## Participación
 
 OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad en aplicaciones y hacer de internet un lugar más seguro, o simplemente querés concer y aprender, este es tu lugar! No dudes en consultarlos! Una gran comunidad te espera.
