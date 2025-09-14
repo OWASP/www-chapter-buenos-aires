@@ -2,6 +2,7 @@
 layout: col-sidebar
 title: OWASP Buenos Aires
 tags: buenos-aires-tag
+level: 0
 region: South America
 meetup-group: OWASP-Buenos-Aires
 country: Argentina
