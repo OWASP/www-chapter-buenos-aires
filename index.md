@@ -2,11 +2,9 @@
 layout: col-sidebar
 title: OWASP Buenos Aires
 tags: buenos-aires-tag
-level: 0
 region: South America
 meetup-group: OWASP-Buenos-Aires
 country: Argentina
-postal-code: B1032
 ---
 
 # ¡Bienvenidos a la comunidad de OWASP Buenos Aires! 
