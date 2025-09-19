@@ -1,12 +1,12 @@
 ---
-
 layout: col-sidebar
 title: OWASP Buenos Aires
-tags: example-tag
+tags: buenos-aires-tag
+level: 0
 region: South America
+meetup-group: OWASP-Buenos-Aires
 country: Argentina
-meetup-group:
-
+postal-code: B1032
 ---
 
 <div style='color:red;'>
