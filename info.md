@@ -1,4 +1,2 @@
 ### Social Links
-* [Meetup](#)
-
-
+* [Meetup](https://www.meetup.com/owasp-buenos-aires/)
