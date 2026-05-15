@@ -60,6 +60,6 @@ Entre otros temas de interés.
 OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad en aplicaciones y hacer de internet un lugar más seguro, o simplemente querés concer y aprender, este es tu lugar! No dudes en consultarlos! Una gran comunidad te espera.
 
 ## Próximos eventos // Upcoming Meeting
-11 de Junio 2026 - Primer Encuentro 2026 Owasp Buenos Aires
-Lugar y Hora: Bierlife - 18:45 Hs.
-Más Info: https://luma.com/owasp-buenos-aires
+- 11 de Junio 2026 - Primer Encuentro 2026 Owasp Buenos Aires
+- Lugar y Hora: Bierlife - 18:45 Hs.
+- Más Info: https://luma.com/owasp-buenos-aires
