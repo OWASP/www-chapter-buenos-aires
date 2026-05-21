@@ -62,4 +62,7 @@ OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad e
 ## Próximos eventos // Upcoming Meeting
 - 11 de Junio 2026 - Primer Encuentro 2026 Owasp Buenos Aires
 - Lugar y Hora: Bierlife - 18:45 Hs.
-- Más Info: [Anotarse](https://luma.com/owasp-buenos-aires)
+- Más Info: [Anotate acá](https://luma.com/5p2p6adz)
+
+
+
