@@ -27,7 +27,7 @@ tags: buenos-aires-tag
 - 18:30 hs — Intro rápida al formato y a OWASP Juice Shop.
 - 18:45 hs — ¡A hackear! Exploración guiada de Juice Shop + lockpicking, gadgets y networking.
 - 22:00 hs — Cierre y próximos pasos de la comunidad.
-Anotate acá: (https://luma.com/112m0b9j)
+Anotate [acá:] (https://luma.com/112m0b9j)
 
 <!-- 
 ### Muy Pronto!!!  
