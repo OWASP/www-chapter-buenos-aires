@@ -32,17 +32,25 @@ Anotate acá: [https://luma.com/112m0b9j]
 <!-- 
 ### Muy Pronto!!!  
 -->
-
 ## Eventos Pasados // Past Events
 
 ### Primer Evento 2026 de Owasp Buenos Aires (11/06)
 <img src="assets/images/11062026/1.jpeg" width="600" />
 - 11 de Junio 2026 - Primer Encuentro 2026 Owasp Buenos Aires
 - Lugar y Hora: Bierlife - 🕡 18:30 Hs.
-
+  
 ## Presentaciones
 
 - Introducción a OWASP, por W. Martín Villalba (OWASP BA & SB).
-- Introducción al proyecto OWASP GenAI, por Martín Rojas (OWASP BA).[aquí](https://drive.google.com/file/d/1O2v5IRPIUOqpjTe_ychHfqa9KiEj92Ln/view?usp=drive_link).
-- - Anatomía de una intrusión de ransomware real, por Emanuel D’Amico (OWASP BA).
-- Próximamente subimos más info de las charlas dadas.
+- Introducción al proyecto OWASP GenAI, por Martín Rojas (OWASP BA) [aquí](https://drive.google.com/file/d/1O2v5IRPIUOqpjTe_ychHfqa9KiEj92Ln/view?usp=drive_link).
+- Anatomía de una intrusión de ransomware real, por Emanuel D’Amico (OWASP BA).
+- Próximamente subimos más info de las charlas .
+
+<!-- 
+### End  
+-->
+
+
+
+
+
