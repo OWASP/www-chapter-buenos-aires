@@ -12,7 +12,7 @@ tags: buenos-aires-tag
 ## Próximos eventos // Upcoming Meeting
 
 ### Hack&Beer 2026 Owasp Buenos Aires (05/07)
-<img src="assets/images/05072026/hackbeer05072026.jpeg" />
+<img src="assets/images/05072026/hackbeer05072026.jpg" />
 - 05 de Julio 2026 - Hack & Beer: OWASP Juice ShopOwasp Buenos Aires
 - 
 - Lugar y Hora: MAUER - Bar - 🕡 18:00 Hs.
