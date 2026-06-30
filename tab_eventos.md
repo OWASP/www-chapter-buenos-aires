@@ -12,7 +12,8 @@ tags: buenos-aires-tag
 ## Próximos eventos // Upcoming Meeting
 
 ### Hack&Beer 2026 Owasp Buenos Aires (05/07)
-<img src="assets/images/05072026/hackbeer05072026.jpg" />
+<img src="assets/images/05072026/hackbeer05072026.jpg" width="200" />
+
 - 05 de Julio 2026 - Hack & Beer: OWASP Juice ShopOwasp Buenos Aires
 - 
 - Lugar y Hora: MAUER - Bar - 🕡 18:00 Hs.
@@ -36,7 +37,7 @@ Anotate acá: https://luma.com/112m0b9j
 ## Eventos Pasados // Past Events
 
 ### Primer Evento 2026 de Owasp Buenos Aires (11/06)
-<img src="assets/images/11062026/1.jpeg" />
+<img src="assets/images/11062026/1.jpeg" width="200" />
 - 11 de Junio 2026 - Primer Encuentro 2026 Owasp Buenos Aires
 - Lugar y Hora: Bierlife - 🕡 18:30 Hs.
 - Agenda:
