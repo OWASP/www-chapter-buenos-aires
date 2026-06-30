@@ -11,6 +11,25 @@ tags: buenos-aires-tag
 
 ## Próximos eventos // Upcoming Meeting
 
+### Hack&Beer 2026 Owasp Buenos Aires (05/07)
+<img src="assets/images/05072026/hackbeer05072026.jpeg" />
+- 05 de Julio 2026 - Hack & Beer: OWASP Juice ShopOwasp Buenos Aires
+- 
+- Lugar y Hora: MAUER - Bar - 🕡 18:00 Hs.
+- Tendremos un espacio relajado para aprender haciendo. Vamos a explorar OWASP Juice Shop, una web app repleta de vulnerabilidades reales para descubrir, entender y explotar, con algo de guía del equipo pero sobre todo a base de prueba, error, y mucha curiosidad.
+​Y si en algún momento querés despejarte del hacking digital, también tendremos algo de lockpicking, cartas, y otros gadgets para jugar.
+​Sin presión. Sin protocolo. Pura comunidad y seguridad accesible para todos los niveles.
+​¿Qué traer?
+​Tu notebook, idealmente con OWASP ZAP o Burp Suite instalado y configurado. 💻
+​
+- Agenda:
+- 18:00 hs — Apertura y setup. Conectá tu compu, acomodate, y disfrutá de un traguito.
+- 18:30 hs — Intro rápida al formato y a OWASP Juice Shop.
+- 18:45 hs — ¡A hackear! Exploración guiada de Juice Shop + lockpicking, gadgets y networking.
+- 22:00 hs — Cierre y próximos pasos de la comunidad.
+Anotate acá: https://luma.com/112m0b9j
+
+
 ### Muy Pronto!!!
 
 
