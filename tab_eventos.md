@@ -11,9 +11,21 @@ tags: buenos-aires-tag
 
 ## Próximos eventos // Upcoming Meeting
 
+### Tercer Evento 2026 de Owasp Buenos Aires (25/08)
+<img src="assets/images/11062026/1.jpeg" width="600" />
+​Después del relanzamiento y del Hack & Beer, seguimos: llega el 3er Meetup de OWASP Buenos Aires. Un encuentro de charlas cortas, seguridad aplicada y mucha comunidad, en un espacio nuevo y con más lugar del que teníamos.
+​Hablaremos de seguridad en aplicaciones, de proyectos OWASP y de lo que se está rompiendo (y arreglando) hoy en la industria. Si trabajás en tecnología, estudiás, o simplemente te pica la curiosidad, este es tu lugar. No hace falta ser experto: acá se viene a aprender.
+​Llegá temprano para ligar stickers y un lugar cómodo. 🎟️
 
- 
-### Muy Pronto!!!  
+- Martes 25 de agosto 2026 - Tercer Encuentro 2026 Owasp Buenos Aires
+- Lugar y Hora: Hormiga Negra - Almagro - 🕡 18:30 Hs.
+- Agenda:
+- 18:30 hs — Apertura.
+- 18:45 hs — Primer Charla.
+- 21:30 hs — Cierre y próximos pasos de la comunidad.
+- Anotate [acá](https://luma.com/qe4ua87c).
+
+
 
 <!-- 
 ### Muy Pronto!!!  
