@@ -64,13 +64,13 @@ OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad e
 - Martes 25 de agosto 2028 - Tercer Encuentro Owasp Buenos Aires
 - Lugar y Hora: Hormiga Negra - Almagro - 🕡 18:30 Hs.
 - Más Info: [Anotate acá](https://luma.com/qe4ua87c)
+
+  
 <!-- 
 
 ##Muy Pronto
 
--->
 
-<!-- 
 
 - 05 de Julio 2026 - Hack & Beer: OWASP Juice Shop Owasp Buenos Aires
 - Lugar y Hora: MAUER - Bar - 🕡 18:00 Hs.
