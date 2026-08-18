@@ -60,7 +60,15 @@ Entre otros temas de interés.
 OWASP es una comunidad formada por personas como vos! Si te gusta la seguridad en aplicaciones y hacer de internet un lugar más seguro, o simplemente querés concer y aprender, este es tu lugar! No dudes en consultarlos! Una gran comunidad te espera.
 
 ## Próximos eventos // Upcoming Meeting
+
+- Martes 25 de agosto 2028 - Tercer Encuentro Owasp Buenos Aires
+- Lugar y Hora: Hormiga Negra - Almagro - 🕡 18:30 Hs.
+- Más Info: [Anotate acá](https://luma.com/qe4ua87c)
+<!-- 
+
 ##Muy Pronto
+
+-->
 
 <!-- 
 
