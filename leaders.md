@@ -3,4 +3,6 @@
 * [Martin Villaba](mailto:martin.villalba@owasp.org)
 * [Martin Rojas](mailto:martin.rojas@owasp.org)
 * [Ruben Aybar](mailto:ruben.aybar@owasp.org)
+<!--  
 * [Emanuel D'Amico](mailto:.@owasp.org)
+-->
