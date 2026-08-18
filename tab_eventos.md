@@ -13,7 +13,9 @@ tags: buenos-aires-tag
 
 ### Tercer Evento 2026 de Owasp Buenos Aires (25/08)
 <img src="assets/images/25082026/3.avif" width="400" />
-​Después del relanzamiento y del Hack & Beer, seguimos: llega el 3er Meetup de OWASP Buenos Aires. Un encuentro de charlas cortas, seguridad aplicada y mucha comunidad, en un espacio nuevo y con más lugar del que teníamos.
+
+​Después del relanzamiento y del Hack & Beer, seguimos: 
+- llega el 3er Meetup de OWASP Buenos Aires. Un encuentro de charlas cortas, seguridad aplicada y mucha comunidad, en un espacio nuevo y con más lugar del que teníamos.
 ​Hablaremos de seguridad en aplicaciones, de proyectos OWASP y de lo que se está rompiendo (y arreglando) hoy en la industria. Si trabajás en tecnología, estudiás, o simplemente te pica la curiosidad, este es tu lugar. No hace falta ser experto: acá se viene a aprender.
 ​Llegá temprano para ligar stickers y un lugar cómodo. 🎟️
 
